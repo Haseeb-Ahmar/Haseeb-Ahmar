@@ -1,3 +1,4 @@
+Haseeb Ahmar
 # Data Scientist
 
 #### Technical Skills: Python, SQL, java, Snowflake, MATLAB
